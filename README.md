@@ -2,8 +2,6 @@
 
 Analyze GitHub profiles with style! A premium, glassmorphic web application that reveals developer personas, statistics, and "vibe scores" using the GitHub API.
 
-![Demo](https://i.imgur.com/example-placeholder.png)
-
 ## ✨ Features
 
 - **💎 Premium Aesthetic**: "Apple Glass" design system with translucent cards and smooth animations.
@@ -12,6 +10,7 @@ Analyze GitHub profiles with style! A premium, glassmorphic web application that
     - **Language Stats**: Visual breakdown of top used languages.
     - **Repo Cards**: beautiful display of top repositories.
     - **Commit Activity**: Heatmap-style commit tracking.
+    - **Scan**: Scan for sensitive files and key.
 - **⚡ Tech Stack**:
     - **Frontend**: Next.js 14+ (App Router), TypeScript, Tailwind CSS, Framer Motion.
     - **Backend**: FastAPI (Python), httpx.

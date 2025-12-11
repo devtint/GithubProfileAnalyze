@@ -76,4 +76,3 @@ The `vercel.json` file automatically routes API requests to the Python backend a
 ## ⭐ Support
 
 If you like this project, please give it a star!
-<3
